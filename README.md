@@ -1,5 +1,5 @@
 # Restaurant Ranking
-An application written in Nuxt.js 3
+An application that shows top-ranking restaurants in the world.
 
 # Nuxt 3 Minimal Starter
 

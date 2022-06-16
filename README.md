@@ -1,3 +1,6 @@
+# Restaurant Ranking
+An application that shows top-ranking restaurants in the world.
+
 # Nuxt 3 Minimal Starter
 
 Look at the [nuxt 3 documentation](https://v3.nuxtjs.org) to learn more.

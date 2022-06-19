@@ -14,7 +14,7 @@ defineProps<{
     </div>
     <div class="row" :style="index % 2 === 0 && { background: 'LavenderBlush' }">
         <h4 class="header rank">{{ rank }}</h4>
-        <a :href="`/${name}`" class="header link">{{ name }}</a>
+        <a :href="`/restaurants/${name}`" class="header link">{{ name }}</a>
     </div>
 </template>
 

@@ -1,5 +1,4 @@
 <template>
-    <Nav />
     <div class="container text-center mt-5" ref="test">
         <h1>About us</h1>
         <p class="m-5">
